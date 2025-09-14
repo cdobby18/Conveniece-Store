@@ -8,12 +8,8 @@ A simple web-application for managing an online convenience store. Built with PH
 
 - [Features](#features)  
 - [Structure](#structure)  
-- [Installation](#installation)  
-- [Usage](#usage)  
-- [Technologies](#technologies)  
-- [Contributing](#contributing)  
-- [License](#license)  
-
+- [Technologies](#technologies)
+  
 ---
 
 ## Features
